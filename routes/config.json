@@ -1,6 +1,6 @@
 {
   "ownerWalletAddress": "0xBFfCe813B6c14D8659057dD3111D3F83CEE271b8",
-  "testnetContractAddress": "0xfa7B8D2478Ac560aE91cCB2b9b8e05bD7Ae94774",
+  "testnetContractAddress": "0x575c18eD0CdC607FccD6FB49Ba726cCA18e33a2C",
   "contractABI": [
     {
       "anonymous": false,
