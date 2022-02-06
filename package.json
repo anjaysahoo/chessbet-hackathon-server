@@ -1,0 +1,27 @@
+{
+  "name": "chessbetserver",
+  "version": "2.0.0",
+  "description": "Server for ChessBet",
+  "main": "app.js",
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Hentai Ousama & Gaurav Kumar Verma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chess-web-api": "^1.1.0",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "lichess-api": "^1.0.2",
+    "mongoose": "^6.0.4",
+    "web3": "^1.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}

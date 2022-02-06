@@ -1,0 +1,10 @@
+node_modules
+.idea
+.env
+package-lock.json
+/temp.js
+launch.json
+/temp.sol
+tempbakchodi.json
+crapshit.json
+todo.md
